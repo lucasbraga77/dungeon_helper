@@ -1,0 +1,8 @@
+# --- NOVAS COORDENADAS CAPTURADAS ---
+
+BOTAO_INICIAR = (1300, 759)
+ABAS_CATEGORIAS['iniciante'] = (611, 284)
+ABAS_CATEGORIAS['intermediario'] = (738, 284)
+ABAS_CATEGORIAS['avancado'] = (871, 284)
+DG: Estação Ruína = (746, 341)
+DG: Cidadela Vulcânica = (749, 360)

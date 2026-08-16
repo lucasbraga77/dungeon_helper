@@ -1,0 +1,1139 @@
+2026-08-02 18:29:25 | === ETAPA 1/1: Vale Tempestuoso (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-02 18:29:27 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-02 18:29:31 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-02 18:29:40 | === ETAPA 1/1: Vale Tempestuoso (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-02 18:29:42 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-02 18:29:45 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-02 20:46:47 | === ETAPA 1/1: Vale Tempestuoso (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-02 20:46:49 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-02 20:47:30 | === ETAPA 1/1: Crista Ilusória | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-02 20:47:31 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-02 20:49:43 | === ETAPA 1/1: Crista Ilusória | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-02 20:49:45 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-02 20:50:02 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-02 20:50:07 | === ETAPA 1/1: Crista Ilusória | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-02 20:50:09 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-02 21:00:09 | 💓 [Heartbeat] 'Crista Ilusória': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-02 21:10:10 | 💓 [Heartbeat] 'Crista Ilusória': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-02 21:20:10 | 💓 [Heartbeat] 'Crista Ilusória': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-02 23:30:35 | === ETAPA 1/10: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-02 23:30:37 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-02 23:40:38 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-02 23:50:38 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 00:00:38 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 00:10:39 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 00:20:39 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 00:30:39 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 00:40:40 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 00:50:40 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 01:00:40 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 01:10:37 | === ETAPA 2/10: Torre dos Mortos 3SS | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-03 01:10:40 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS'.
+2026-08-03 01:20:40 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 01:30:40 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 01:40:41 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 01:50:41 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 02:00:41 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 02:10:42 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 02:20:42 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 02:30:42 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 02:40:43 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 02:50:40 | === ETAPA 3/10: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-03 02:50:42 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-03 03:00:42 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 03:10:42 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 03:20:43 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 03:30:43 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 03:40:43 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 03:50:44 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 04:00:44 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 04:10:45 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 04:20:45 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 04:30:42 | === ETAPA 4/10: Templo Esquecido 2SS | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-03 04:30:44 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-03 04:40:44 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 04:50:45 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 05:00:45 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 05:10:45 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 05:20:46 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 05:30:46 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 05:40:46 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 05:50:47 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 06:00:47 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 06:10:44 | === ETAPA 5/10: Castelo das Ilusões (Apócrifos) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-03 06:10:46 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões (Apócrifos)'.
+2026-08-03 06:20:47 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 06:30:47 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 06:40:47 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 06:50:48 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 07:00:48 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 07:10:48 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 07:20:49 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 07:30:49 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 11:42:43 | === ETAPA 1/7: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-03 11:42:46 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-03 11:52:46 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 12:02:46 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 12:12:47 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 12:22:47 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 12:32:47 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 12:34:19 | [Pular] 'Vale Tempestuoso (Desperto)' interrompida manualmente pelo usuário.
+2026-08-03 12:34:20 | === ETAPA 2/7: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-03 12:34:22 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-03 12:44:22 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 12:54:22 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 13:04:23 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 13:14:23 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 13:24:24 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 13:34:24 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 13:44:24 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 13:54:25 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 14:04:25 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 14:14:22 | === ETAPA 3/7: Templo Esquecido 2SS | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-03 14:14:24 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-03 14:24:24 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 14:34:25 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 14:44:25 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 14:54:26 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 15:04:26 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 15:14:26 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 15:24:27 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 15:34:27 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 15:44:27 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-03 15:54:24 | === ETAPA 4/7: Altar de Siena 2SS | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-03 15:54:26 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 2SS'.
+2026-08-03 16:02:22 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-03 23:35:08 | === ETAPA 1/1: Estação Ruína | Tempo base: 2.1 min | Multiplicador: x20 | Bloco total: 42 min ===
+2026-08-03 23:35:10 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Estação Ruína'.
+2026-08-03 23:38:05 | === ETAPA 1/1: Estação Ruína | Tempo base: 2.1 min | Multiplicador: x20 | Bloco total: 42 min ===
+2026-08-03 23:38:07 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Estação Ruína'.
+2026-08-03 23:38:17 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-03 23:38:24 | === ETAPA 1/1: Estação Ruína | Tempo base: 2.1 min | Multiplicador: x20 | Bloco total: 42 min ===
+2026-08-03 23:38:26 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Estação Ruína'.
+2026-08-03 23:52:36 | === ETAPA 1/1: Estação Ruína | Tempo base: 2.1 min | Multiplicador: x20 | Bloco total: 42 min ===
+2026-08-03 23:52:38 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Estação Ruína'.
+2026-08-03 23:53:40 | === ETAPA 1/1: Estação Ruína | Tempo base: 2.1 min | Multiplicador: x20 | Bloco total: 42 min ===
+2026-08-03 23:53:42 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Estação Ruína'.
+2026-08-04 00:54:47 | === ETAPA 1/9: Estação Ruína | Tempo base: 2.1 min | Multiplicador: x20 | Bloco total: 42 min ===
+2026-08-04 00:54:49 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Estação Ruína'.
+2026-08-04 00:54:54 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 00:55:13 | === ETAPA 1/8: Torre dos Mortos 3SS | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 00:55:15 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS'.
+2026-08-04 00:55:19 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 00:58:25 | === ETAPA 1/8: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 00:58:27 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-04 01:08:27 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 01:18:28 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 01:28:31 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 01:36:03 | 🔍 [Detecção] 'Vale Tempestuoso (Desperto)' finalizada em 37.6 min (estimado: 60.0 min — 37% de folga no tempo programado).
+2026-08-04 01:36:04 | === ETAPA 2/8: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 01:36:06 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-04 01:46:09 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 01:56:10 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 02:06:12 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 02:16:16 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 02:26:19 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 02:36:22 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 02:46:22 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 02:56:25 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 03:03:57 | 🔍 [Detecção] 'Torre dos Mortos 3SS (Parte 2)' finalizada em 87.8 min (estimado: 100.0 min — 12% de folga no tempo programado).
+2026-08-04 03:03:58 | === ETAPA 3/8: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 03:04:01 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-04 03:14:02 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 03:24:03 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 03:34:03 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 03:44:03 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 03:54:04 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 04:04:07 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 04:14:07 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 04:24:11 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 04:25:19 | 🔍 [Detecção] 'Templo Esquecido 2SS (Desperto)' finalizada em 81.3 min (estimado: 100.0 min — 19% de folga no tempo programado).
+2026-08-04 04:25:21 | === ETAPA 4/8: Torre dos Mortos 3SS | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 04:25:23 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS'.
+2026-08-04 04:35:27 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 04:45:28 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 04:55:29 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 05:05:33 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 05:15:36 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 05:25:39 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 05:35:40 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 05:45:43 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 05:55:45 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 05:56:02 | 🔍 [Detecção] 'Torre dos Mortos 3SS' finalizada em 90.7 min (estimado: 100.0 min — 9% de folga no tempo programado).
+2026-08-04 05:56:04 | === ETAPA 5/8: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 05:56:06 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
+2026-08-04 06:06:06 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 06:16:10 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 06:26:10 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 06:36:13 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 06:46:13 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 06:56:14 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 07:06:18 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 07:16:21 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 07:26:24 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 07:36:07 | [Aviso] 'Posto Avançado de Máquinas' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (100 min).
+2026-08-04 07:36:07 | === ETAPA 6/8: Altar de Siena 2SS | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 07:36:09 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 2SS'.
+2026-08-04 07:38:23 | 🔍 [Detecção] 'Altar de Siena 2SS' finalizada em 2.2 min (estimado: 100.0 min — 98% de folga no tempo programado).
+2026-08-04 07:38:24 | === ETAPA 7/8: Templo Esquecido 2SS | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 07:38:26 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-04 07:48:30 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 07:58:31 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 08:08:31 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 08:18:33 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 08:28:36 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 08:38:38 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 08:48:40 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 08:58:42 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 09:08:46 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 09:18:27 | [Aviso] 'Templo Esquecido 2SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (100 min).
+2026-08-04 09:18:27 | === ETAPA 8/8: Crista Ilusória | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 09:18:29 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-04 09:28:31 | 💓 [Heartbeat] 'Crista Ilusória': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 09:38:31 | 💓 [Heartbeat] 'Crista Ilusória': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 09:48:04 | 🔍 [Detecção] 'Crista Ilusória' finalizada em 29.6 min (estimado: 100.0 min — 70% de folga no tempo programado).
+2026-08-04 09:48:06 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-04 10:55:55 | === ETAPA 1/2: Castelo das Ilusões (Apócrifos) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 10:55:57 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões (Apócrifos)'.
+2026-08-04 11:06:00 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 11:16:03 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 11:26:06 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 11:27:56 | 🔍 [Detecção] 'Castelo das Ilusões (Apócrifos)' finalizada em 32.0 min (estimado: 100.0 min — 68% de folga no tempo programado).
+2026-08-04 11:27:58 | === ETAPA 2/2: Salão Radiante do Castelo (Apócrifos) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 11:28:00 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Salão Radiante do Castelo (Apócrifos)'.
+2026-08-04 11:38:01 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 11:48:05 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 11:58:08 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 12:03:22 | 🔍 [Detecção] 'Salão Radiante do Castelo (Apócrifos)' finalizada em 35.4 min (estimado: 100.0 min — 65% de folga no tempo programado).
+2026-08-04 12:03:24 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-04 12:54:22 | === ETAPA 1/4: Morada das Chamas Infernais(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 12:54:24 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Morada das Chamas Infernais(Desperto)'.
+2026-08-04 13:04:26 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 13:14:28 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 13:24:30 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 13:30:12 | 🔍 [Detecção] 'Morada das Chamas Infernais(Desperto)' finalizada em 35.8 min (estimado: 40.0 min — 10% de folga no tempo programado).
+2026-08-04 13:30:14 | === ETAPA 2/4: Locomotiva Fantasma(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 13:30:16 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Locomotiva Fantasma(Desperto)'.
+2026-08-04 13:32:20 | 🔍 [Detecção] 'Locomotiva Fantasma(Desperto)' finalizada em 2.1 min (estimado: 40.0 min — 95% de folga no tempo programado).
+2026-08-04 13:32:21 | === ETAPA 3/4: Catacumba Gélida(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 13:32:23 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Catacumba Gélida(Desperto)'.
+2026-08-04 13:34:27 | 🔍 [Detecção] 'Catacumba Gélida(Desperto)' finalizada em 2.1 min (estimado: 40.0 min — 95% de folga no tempo programado).
+2026-08-04 13:34:29 | === ETAPA 4/4: Caverna do Pânico(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 13:34:31 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Caverna do Pânico(Desperto)'.
+2026-08-04 13:36:35 | 🔍 [Detecção] 'Caverna do Pânico(Desperto)' finalizada em 2.1 min (estimado: 40.0 min — 95% de folga no tempo programado).
+2026-08-04 13:36:36 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-04 14:17:46 | === ETAPA 1/6: Locomotiva Fantasma(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 14:17:48 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Locomotiva Fantasma(Desperto)'.
+2026-08-04 14:21:06 | 🔍 [Detecção] 'Locomotiva Fantasma(Desperto)' finalizada em 3.3 min (estimado: 40.0 min — 92% de folga no tempo programado).
+2026-08-04 14:21:07 | === ETAPA 2/6: Catacumba Gélida(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 14:21:09 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Catacumba Gélida(Desperto)'.
+2026-08-04 14:31:09 | 💓 [Heartbeat] 'Catacumba Gélida(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 14:36:00 | 🔍 [Detecção] 'Catacumba Gélida(Desperto)' finalizada em 14.8 min (estimado: 40.0 min — 63% de folga no tempo programado).
+2026-08-04 14:36:02 | === ETAPA 3/6: Pandemônio | Tempo base: 4.0 min | Multiplicador: x20 | Bloco total: 80 min ===
+2026-08-04 14:36:04 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Pandemônio'.
+2026-08-04 14:46:04 | 💓 [Heartbeat] 'Pandemônio': 10/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 14:56:06 | 💓 [Heartbeat] 'Pandemônio': 20/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 15:06:08 | 💓 [Heartbeat] 'Pandemônio': 30/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 15:16:10 | 💓 [Heartbeat] 'Pandemônio': 40/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 15:26:13 | 💓 [Heartbeat] 'Pandemônio': 50/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 15:36:15 | 💓 [Heartbeat] 'Pandemônio': 60/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 15:42:51 | 🔍 [Detecção] 'Pandemônio' finalizada em 66.8 min (estimado: 80.0 min — 17% de folga no tempo programado).
+2026-08-04 15:42:52 | === ETAPA 4/6: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 15:42:54 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-04 15:52:56 | 💓 [Heartbeat] 'Castelo das Ilusões': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 16:02:58 | 💓 [Heartbeat] 'Castelo das Ilusões': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 16:13:02 | 💓 [Heartbeat] 'Castelo das Ilusões': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 16:23:05 | 💓 [Heartbeat] 'Castelo das Ilusões': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 16:33:09 | 💓 [Heartbeat] 'Castelo das Ilusões': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 16:42:59 | [Aviso] 'Castelo das Ilusões' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (60 min).
+2026-08-04 16:42:59 | === ETAPA 5/6: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 16:43:01 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-04 16:53:01 | 💓 [Heartbeat] 'Altar de Siena 1SS': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 17:03:03 | 💓 [Heartbeat] 'Altar de Siena 1SS': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 17:13:03 | 💓 [Heartbeat] 'Altar de Siena 1SS': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 17:23:07 | 💓 [Heartbeat] 'Altar de Siena 1SS': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 17:33:10 | 💓 [Heartbeat] 'Altar de Siena 1SS': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 17:43:03 | [Aviso] 'Altar de Siena 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (60 min).
+2026-08-04 17:43:03 | === ETAPA 6/6: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 17:43:05 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-04 17:45:09 | 🔍 [Detecção] 'Ilha Proibida' finalizada em 2.1 min (estimado: 100.0 min — 98% de folga no tempo programado).
+2026-08-04 17:45:11 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-04 17:55:01 | === ETAPA 1/3: Caverna do Pânico(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 17:55:03 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Caverna do Pânico(Desperto)'.
+2026-08-04 18:05:06 | 💓 [Heartbeat] 'Caverna do Pânico(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 18:15:07 | 💓 [Heartbeat] 'Caverna do Pânico(Desperto)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 18:22:58 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 18:23:10 | === ETAPA 1/4: Caverna do Pânico(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 18:23:12 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Caverna do Pânico(Desperto)'.
+2026-08-04 18:33:17 | 💓 [Heartbeat] 'Caverna do Pânico(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 18:36:05 | 🔍 [Detecção] 'Caverna do Pânico(Desperto)' finalizada em 12.9 min (estimado: 40.0 min — 68% de folga no tempo programado).
+2026-08-04 18:36:06 | === ETAPA 2/4: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 18:36:09 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-04 18:46:13 | 💓 [Heartbeat] 'Altar de Siena 1SS': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 18:56:16 | 💓 [Heartbeat] 'Altar de Siena 1SS': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 19:06:17 | 💓 [Heartbeat] 'Altar de Siena 1SS': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 19:16:19 | 💓 [Heartbeat] 'Altar de Siena 1SS': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 19:26:21 | 💓 [Heartbeat] 'Altar de Siena 1SS': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 19:36:12 | [Aviso] 'Altar de Siena 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (60 min).
+2026-08-04 19:36:12 | === ETAPA 3/4: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 19:36:14 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-04 19:46:14 | 💓 [Heartbeat] 'Ilha Proibida': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-04 19:49:12 | 🔍 [Detecção] 'Ilha Proibida' finalizada em 13.0 min (estimado: 100.0 min — 87% de folga no tempo programado).
+2026-08-04 19:49:13 | === ETAPA 4/4: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 19:49:15 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-04 19:51:47 | 🔍 [Detecção] 'Castelo das Ilusões' finalizada em 2.5 min (estimado: 60.0 min — 96% de folga no tempo programado).
+2026-08-04 19:51:48 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-04 22:48:45 | === ETAPA 1/1: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 22:48:47 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-04 22:48:51 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 22:49:12 | === ETAPA 1/1: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 22:49:15 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-04 22:50:25 | === ETAPA 1/1: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 22:50:27 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-04 22:50:32 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 22:50:41 | === ETAPA 1/1: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 22:50:43 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-04 23:04:47 | === ETAPA 1/1: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 23:04:49 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-04 23:05:08 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 23:05:14 | === ETAPA 1/1: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 23:05:16 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-04 23:05:23 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 23:05:35 | === ETAPA 1/1: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 23:05:37 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-04 23:05:46 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 23:05:51 | === ETAPA 1/1: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 23:05:53 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-04 23:05:57 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 23:06:01 | === ETAPA 1/1: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-04 23:06:03 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-04 23:06:14 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 23:06:22 | === ETAPA 1/1: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 23:06:24 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-04 23:06:27 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 23:06:32 | === ETAPA 1/1: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 23:06:34 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-04 23:58:48 | === ETAPA 1/1: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 23:58:50 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-04 23:58:55 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 23:59:00 | === ETAPA 1/1: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-04 23:59:02 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-04 23:59:19 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-04 23:59:23 | === ETAPA 1/1: Morada das Chamas Infernais(Premium) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-04 23:59:25 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Morada das Chamas Infernais(Premium)'.
+2026-08-04 23:59:50 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-05 00:26:02 | === ETAPA 1/2: Morada das Chamas Infernais(Premium) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 00:26:04 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Morada das Chamas Infernais(Premium)'.
+2026-08-05 00:28:11 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-05 00:28:39 | === ETAPA 1/1: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 00:28:41 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-05 00:34:10 | === ETAPA 1/1: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 00:37:28 | === ETAPA 1/1: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 00:37:31 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-05 00:48:33 | === ETAPA 1/1: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 00:48:35 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-05 00:50:31 | === ETAPA 1/1: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 00:50:33 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-05 00:52:32 | === ETAPA 1/11: Morada das Chamas Infernais(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 00:52:34 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Morada das Chamas Infernais(Desperto)'.
+2026-08-05 01:02:37 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 01:12:38 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 01:15:43 | 🔍 [Detecção] 'Morada das Chamas Infernais(Desperto)' finalizada em 23.1 min (estimado: 40.0 min — 42% de folga no tempo programado).
+2026-08-05 01:15:44 | === ETAPA 2/11: Caverna do Pânico(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 01:15:46 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Caverna do Pânico(Desperto)'.
+2026-08-05 01:25:50 | 💓 [Heartbeat] 'Caverna do Pânico(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 01:35:53 | 💓 [Heartbeat] 'Caverna do Pânico(Desperto)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 01:42:24 | 🔍 [Detecção] 'Caverna do Pânico(Desperto)' finalizada em 26.6 min (estimado: 40.0 min — 33% de folga no tempo programado).
+2026-08-05 01:42:26 | === ETAPA 3/11: Locomotiva Fantasma(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 01:42:28 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Locomotiva Fantasma(Desperto)'.
+2026-08-05 01:52:31 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 02:02:34 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 02:12:35 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 02:16:38 | 🔍 [Detecção] 'Locomotiva Fantasma(Desperto)' finalizada em 34.2 min (estimado: 40.0 min — 15% de folga no tempo programado).
+2026-08-05 02:16:39 | === ETAPA 4/11: Catacumba Gélida(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 02:16:41 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Catacumba Gélida(Desperto)'.
+2026-08-05 02:26:43 | 💓 [Heartbeat] 'Catacumba Gélida(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 02:30:40 | 🔍 [Detecção] 'Catacumba Gélida(Desperto)' finalizada em 14.0 min (estimado: 40.0 min — 65% de folga no tempo programado).
+2026-08-05 02:30:42 | === ETAPA 5/11: Pandemônio | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-05 02:30:44 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Pandemônio'.
+2026-08-05 02:40:44 | 💓 [Heartbeat] 'Pandemônio': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 02:50:48 | 💓 [Heartbeat] 'Pandemônio': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 03:00:50 | 💓 [Heartbeat] 'Pandemônio': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 03:10:55 | 💓 [Heartbeat] 'Pandemônio': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 03:20:56 | 💓 [Heartbeat] 'Pandemônio': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 03:30:57 | 💓 [Heartbeat] 'Pandemônio': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 03:40:58 | 💓 [Heartbeat] 'Pandemônio': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 03:51:02 | 💓 [Heartbeat] 'Pandemônio': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 04:01:05 | 💓 [Heartbeat] 'Pandemônio': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 04:01:27 | 🔍 [Detecção] 'Pandemônio' finalizada em 90.7 min (estimado: 100.0 min — 9% de folga no tempo programado).
+2026-08-05 04:01:29 | === ETAPA 6/11: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-05 04:01:31 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-05 04:11:31 | 💓 [Heartbeat] 'Altar de Siena 1SS': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 04:21:32 | 💓 [Heartbeat] 'Altar de Siena 1SS': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 04:31:34 | 💓 [Heartbeat] 'Altar de Siena 1SS': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 04:41:36 | 💓 [Heartbeat] 'Altar de Siena 1SS': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 04:51:40 | 💓 [Heartbeat] 'Altar de Siena 1SS': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 04:58:14 | 🔍 [Detecção] 'Altar de Siena 1SS' finalizada em 56.7 min (estimado: 60.0 min — 5% de folga no tempo programado).
+2026-08-05 04:58:15 | === ETAPA 7/11: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-05 04:58:17 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-05 05:08:22 | 💓 [Heartbeat] 'Ilha Proibida': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 05:18:24 | 💓 [Heartbeat] 'Ilha Proibida': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 05:28:28 | 💓 [Heartbeat] 'Ilha Proibida': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 05:38:33 | 💓 [Heartbeat] 'Ilha Proibida': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 05:48:36 | 💓 [Heartbeat] 'Ilha Proibida': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 05:58:36 | 💓 [Heartbeat] 'Ilha Proibida': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 06:08:38 | 💓 [Heartbeat] 'Ilha Proibida': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 06:18:42 | 💓 [Heartbeat] 'Ilha Proibida': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 06:28:42 | 💓 [Heartbeat] 'Ilha Proibida': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 06:38:09 | 🔍 [Detecção] 'Ilha Proibida' finalizada em 99.9 min (estimado: 100.0 min — 0% de folga no tempo programado).
+2026-08-05 06:38:10 | === ETAPA 8/11: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 06:38:12 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-05 06:48:13 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 06:58:14 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 07:05:15 | 🔍 [Detecção] 'Templo Esquecido 1SS' finalizada em 27.1 min (estimado: 40.0 min — 32% de folga no tempo programado).
+2026-08-05 07:05:17 | === ETAPA 9/11: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 07:05:19 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-05 07:15:22 | 💓 [Heartbeat] 'Cidadela Vulcânica': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 07:25:25 | 💓 [Heartbeat] 'Cidadela Vulcânica': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 07:35:29 | 💓 [Heartbeat] 'Cidadela Vulcânica': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 07:45:20 | [Aviso] 'Cidadela Vulcânica' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (40 min).
+2026-08-05 07:45:20 | === ETAPA 10/11: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-05 07:45:22 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-05 07:55:25 | 💓 [Heartbeat] 'Castelo das Ilusões': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 08:05:26 | 💓 [Heartbeat] 'Castelo das Ilusões': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 08:11:16 | 🔍 [Detecção] 'Castelo das Ilusões' finalizada em 25.9 min (estimado: 60.0 min — 57% de folga no tempo programado).
+2026-08-05 08:11:18 | === ETAPA 11/11: Torre Gélida dos Mortos 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-05 08:11:20 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre Gélida dos Mortos 1SS'.
+2026-08-05 08:21:23 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 08:31:27 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 08:41:28 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-05 08:51:21 | [Aviso] 'Torre Gélida dos Mortos 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (40 min).
+2026-08-05 08:51:21 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-05 11:57:03 | === ETAPA 1/3: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x16 | Bloco total: 80 min ===
+2026-08-05 11:57:06 | ✅ Ciclo de 16 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-05 11:57:17 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-05 11:58:55 | === ETAPA 1/3: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x16 | Bloco total: 80 min ===
+2026-08-05 11:58:57 | ✅ Ciclo de 16 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-05 11:59:06 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-05 11:59:17 | === ETAPA 1/3: Castelo das Ilusões (Apócrifos) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-05 11:59:19 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões (Apócrifos)'.
+2026-08-05 11:59:25 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-05 22:40:18 | === ETAPA 1/2: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x2 | Bloco total: 6 min ===
+2026-08-05 22:40:20 | ✅ Ciclo de 2 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-05 23:00:04 | === ETAPA 1/2: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x2 | Bloco total: 6 min ===
+2026-08-05 23:00:06 | ✅ Ciclo de 2 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-05 23:03:32 | 🔍 [Detecção] 'Vale Tempestuoso (Desperto)' finalizada em 3.4 min (estimado: 6.0 min — 43% de folga no tempo programado).
+2026-08-05 23:03:32 | 🧠 [Aprendizado] Tempo base da 'Vale Tempestuoso (Desperto)' atualizado para 1.8 min no JSON.
+2026-08-05 23:03:33 | === ETAPA 2/2: Ilha Proibida | Tempo base: 5.0 min | Multiplicador: x1 | Bloco total: 5 min ===
+2026-08-05 23:03:35 | ✅ Ciclo de 1 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-05 23:05:05 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 00:09:22 | === ETAPA 1/5: Torre dos Mortos 3SS | Tempo base: 5.5 min | Multiplicador: x20 | Bloco total: 110 min ===
+2026-08-06 00:09:24 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS'.
+2026-08-06 00:09:28 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 00:12:59 | === ETAPA 1/7: Torre dos Mortos 3SS | Tempo base: 5.5 min | Multiplicador: x20 | Bloco total: 110 min ===
+2026-08-06 00:13:01 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS'.
+2026-08-06 00:23:03 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 10/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 00:33:07 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 20/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 00:43:09 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 30/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 00:53:13 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 40/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 01:03:17 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 50/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 01:13:19 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 60/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 01:23:20 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 70/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 01:33:20 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 80/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 01:43:25 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 90/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 01:53:27 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 100/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 02:03:04 | [Aviso] 'Torre dos Mortos 3SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (110 min).
+2026-08-06 02:03:04 | === ETAPA 2/7: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.5 min | Multiplicador: x20 | Bloco total: 110 min ===
+2026-08-06 02:03:06 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-06 02:13:07 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 10/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 02:23:11 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 20/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 02:33:14 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 30/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 02:43:15 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 40/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 02:53:17 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 50/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 03:03:21 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 60/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 03:13:25 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 70/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 03:23:25 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 80/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 03:33:27 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 90/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 03:43:31 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 100/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 03:53:11 | [Aviso] 'Torre dos Mortos 3SS (Parte 2)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (110 min).
+2026-08-06 03:53:11 | === ETAPA 3/7: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x2 | Bloco total: 6 min ===
+2026-08-06 03:53:13 | ✅ Ciclo de 2 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-06 03:59:16 | [Aviso] 'Vale Tempestuoso (Desperto)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (6 min).
+2026-08-06 03:59:16 | === ETAPA 4/7: Crista Ilusória | Tempo base: 2.5 min | Multiplicador: x20 | Bloco total: 50 min ===
+2026-08-06 03:59:18 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-06 04:09:19 | 💓 [Heartbeat] 'Crista Ilusória': 10/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 04:19:22 | 💓 [Heartbeat] 'Crista Ilusória': 20/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 04:29:26 | 💓 [Heartbeat] 'Crista Ilusória': 30/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 04:39:27 | 💓 [Heartbeat] 'Crista Ilusória': 40/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 04:49:23 | [Aviso] 'Crista Ilusória' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (50 min).
+2026-08-06 04:49:23 | === ETAPA 5/7: Altar de Siena 2SS | Tempo base: 4.5 min | Multiplicador: x11 | Bloco total: 49 min ===
+2026-08-06 04:49:25 | ✅ Ciclo de 11 entrada(s) disparado com sucesso para 'Altar de Siena 2SS'.
+2026-08-06 04:59:26 | 💓 [Heartbeat] 'Altar de Siena 2SS': 10/49 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 05:09:28 | 💓 [Heartbeat] 'Altar de Siena 2SS': 20/49 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 05:19:29 | 💓 [Heartbeat] 'Altar de Siena 2SS': 30/49 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 05:29:30 | 💓 [Heartbeat] 'Altar de Siena 2SS': 40/49 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 05:38:59 | [Aviso] 'Altar de Siena 2SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (49 min).
+2026-08-06 05:38:59 | === ETAPA 6/7: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x15 | Bloco total: 45 min ===
+2026-08-06 05:39:01 | ✅ Ciclo de 15 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-06 05:49:02 | 💓 [Heartbeat] 'Altar de Siena 1SS': 10/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 05:59:05 | 💓 [Heartbeat] 'Altar de Siena 1SS': 20/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 06:09:05 | 💓 [Heartbeat] 'Altar de Siena 1SS': 30/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 06:19:09 | 💓 [Heartbeat] 'Altar de Siena 1SS': 40/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 06:24:04 | [Aviso] 'Altar de Siena 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (45 min).
+2026-08-06 06:24:04 | === ETAPA 7/7: Ilha Proibida | Tempo base: 4.0 min | Multiplicador: x20 | Bloco total: 80 min ===
+2026-08-06 06:24:06 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-06 06:34:11 | 💓 [Heartbeat] 'Ilha Proibida': 10/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 06:44:14 | 💓 [Heartbeat] 'Ilha Proibida': 20/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 06:54:17 | 💓 [Heartbeat] 'Ilha Proibida': 30/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 07:04:21 | 💓 [Heartbeat] 'Ilha Proibida': 40/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 07:14:22 | 💓 [Heartbeat] 'Ilha Proibida': 50/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 07:24:24 | 💓 [Heartbeat] 'Ilha Proibida': 60/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 07:34:07 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 07:34:36 | === ETAPA 1/6: Torre dos Mortos 3SS | Tempo base: 5.5 min | Multiplicador: x10 | Bloco total: 55 min ===
+2026-08-06 07:34:38 | ✅ Ciclo de 10 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS'.
+2026-08-06 07:34:44 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 07:35:11 | === ETAPA 1/6: Torre dos Mortos 3SS | Tempo base: 5.5 min | Multiplicador: x10 | Bloco total: 55 min ===
+2026-08-06 07:35:13 | ✅ Ciclo de 10 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS'.
+2026-08-06 07:45:16 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 10/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 07:55:19 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 20/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 08:05:21 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 30/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 08:15:22 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 40/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 08:25:24 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 50/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 08:30:17 | [Aviso] 'Torre dos Mortos 3SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (55 min).
+2026-08-06 08:30:17 | === ETAPA 2/6: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-06 08:30:19 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-06 08:40:23 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 08:43:21 | 🔍 [Detecção] 'Templo Esquecido 2SS (Desperto)' finalizada em 13.0 min (estimado: 100.0 min — 87% de folga no tempo programado).
+2026-08-06 08:43:21 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 2SS (Desperto)' atualizado para 2.4 min no JSON.
+2026-08-06 08:43:22 | === ETAPA 3/6: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.5 min | Multiplicador: x20 | Bloco total: 110 min ===
+2026-08-06 08:43:24 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-06 08:46:46 | 🔍 [Detecção] 'Torre dos Mortos 3SS (Parte 2)' finalizada em 3.4 min (estimado: 110.0 min — 97% de folga no tempo programado).
+2026-08-06 08:46:46 | 🧠 [Aprendizado] Tempo base da 'Torre dos Mortos 3SS (Parte 2)' atualizado para 2.3 min no JSON.
+2026-08-06 08:46:47 | === ETAPA 4/6: Crista Ilusória | Tempo base: 2.5 min | Multiplicador: x20 | Bloco total: 50 min ===
+2026-08-06 08:46:50 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-06 08:56:52 | 💓 [Heartbeat] 'Crista Ilusória': 10/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 09:06:56 | 💓 [Heartbeat] 'Crista Ilusória': 20/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 09:16:57 | 💓 [Heartbeat] 'Crista Ilusória': 30/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 09:26:47 | 🔍 [Detecção] 'Crista Ilusória' finalizada em 40.0 min (estimado: 50.0 min — 20% de folga no tempo programado).
+2026-08-06 09:26:47 | 🧠 [Aprendizado] Tempo base da 'Crista Ilusória' atualizado para 1.7 min no JSON.
+2026-08-06 09:26:48 | === ETAPA 5/6: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-06 09:26:50 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
+2026-08-06 09:28:54 | 🔍 [Detecção] 'Posto Avançado de Máquinas' finalizada em 2.1 min (estimado: 100.0 min — 98% de folga no tempo programado).
+2026-08-06 09:28:54 | 🧠 [Aprendizado] Tempo base da 'Posto Avançado de Máquinas' atualizado para 0.1 min no JSON.
+2026-08-06 09:28:56 | === ETAPA 6/6: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x2 | Bloco total: 6 min ===
+2026-08-06 09:28:58 | ✅ Ciclo de 2 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-06 09:31:02 | 🔍 [Detecção] 'Vale Tempestuoso (Desperto)' finalizada em 2.1 min (estimado: 6.0 min — 66% de folga no tempo programado).
+2026-08-06 09:31:02 | 🧠 [Aprendizado] Tempo base da 'Vale Tempestuoso (Desperto)' atualizado para 1.5 min no JSON.
+2026-08-06 09:31:04 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-06 09:51:42 | === ETAPA 1/3: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.5 min | Multiplicador: x20 | Bloco total: 110 min ===
+2026-08-06 09:51:44 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-06 10:01:46 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 10/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 10:11:47 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 20/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 10:21:48 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 30/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 10:31:49 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 40/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 10:41:52 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 50/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 10:51:53 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 60/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 10:56:56 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 10:59:12 | === ETAPA 1/4: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.5 min | Multiplicador: x8 | Bloco total: 44 min ===
+2026-08-06 10:59:14 | ✅ Ciclo de 8 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-06 10:59:41 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 10:59:54 | === ETAPA 1/4: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.5 min | Multiplicador: x8 | Bloco total: 44 min ===
+2026-08-06 10:59:56 | ✅ Ciclo de 8 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-06 11:09:56 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 10/44 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 11:19:58 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 20/44 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 11:30:00 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 30/44 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 11:40:01 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 40/44 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 11:43:57 | [Aviso] 'Torre dos Mortos 3SS (Parte 2)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (44 min).
+2026-08-06 11:43:57 | === ETAPA 2/4: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-06 11:43:59 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-06 11:54:00 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 12:04:02 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 12:14:03 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 12:24:04 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 12:34:06 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 12:44:06 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 12:50:58 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 12:51:05 | === ETAPA 1/2: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-06 12:51:07 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-06 13:01:10 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 13:11:11 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 13:21:11 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 13:25:11 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 13:34:53 | === ETAPA 1/2: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x10 | Bloco total: 50 min ===
+2026-08-06 13:34:55 | ✅ Ciclo de 10 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-06 13:49:37 | === ETAPA 1/3: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x9 | Bloco total: 45 min ===
+2026-08-06 13:49:39 | ✅ Ciclo de 9 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-06 13:59:40 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 14:09:41 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 20/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 14:19:44 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 30/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 14:27:54 | 🔍 [Detecção] 'Templo Esquecido 2SS (Desperto)' finalizada em 38.2 min (estimado: 45.0 min — 15% de folga no tempo programado).
+2026-08-06 14:27:54 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 2SS (Desperto)' atualizado para 3.0 min no JSON.
+2026-08-06 14:27:55 | === ETAPA 2/3: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-06 14:27:57 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-06 14:38:00 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 10/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 14:48:02 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 20/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 14:52:56 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 14:53:23 | === ETAPA 1/3: Altar de Siena 2SS | Tempo base: 4.5 min | Multiplicador: x20 | Bloco total: 90 min ===
+2026-08-06 14:53:25 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 2SS'.
+2026-08-06 14:54:41 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 14:54:55 | === ETAPA 1/3: Altar de Siena 2SS | Tempo base: 4.5 min | Multiplicador: x20 | Bloco total: 90 min ===
+2026-08-06 14:54:57 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 2SS'.
+2026-08-06 15:04:59 | 💓 [Heartbeat] 'Altar de Siena 2SS': 10/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 15:15:01 | 💓 [Heartbeat] 'Altar de Siena 2SS': 20/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 15:25:03 | 💓 [Heartbeat] 'Altar de Siena 2SS': 30/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 15:35:06 | 💓 [Heartbeat] 'Altar de Siena 2SS': 40/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 15:45:08 | 💓 [Heartbeat] 'Altar de Siena 2SS': 50/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 15:46:14 | 🔍 [Detecção] 'Altar de Siena 2SS' finalizada em 51.3 min (estimado: 90.0 min — 43% de folga no tempo programado).
+2026-08-06 15:46:14 | 🧠 [Aprendizado] Tempo base da 'Altar de Siena 2SS' atualizado para 1.3 min no JSON.
+2026-08-06 15:46:16 | === ETAPA 2/3: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-06 15:46:18 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-06 15:56:21 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 10/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 16:06:25 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 20/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 16:16:25 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 30/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 16:21:09 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 17:48:11 | === ETAPA 1/2: Castelo das Ilusões | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-06 17:48:13 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-06 17:58:18 | 💓 [Heartbeat] 'Castelo das Ilusões': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 18:08:22 | 💓 [Heartbeat] 'Castelo das Ilusões': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 18:18:23 | 💓 [Heartbeat] 'Castelo das Ilusões': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 19:31:35 | === ETAPA 1/5: Castelo das Ilusões | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-06 19:31:37 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-06 19:33:41 | 🔍 [Detecção] 'Castelo das Ilusões' finalizada em 2.1 min (estimado: 100.0 min — 98% de folga no tempo programado).
+2026-08-06 19:33:41 | 🧠 [Aprendizado] Tempo base da 'Castelo das Ilusões' atualizado para 0.5 min no JSON.
+2026-08-06 19:33:43 | === ETAPA 2/5: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-06 19:33:45 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-06 19:34:25 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 19:34:40 | === ETAPA 1/3: Castelo das Ilusões (Apócrifos) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-06 19:34:42 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões (Apócrifos)'.
+2026-08-06 19:44:43 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 19:54:46 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 20:00:29 | 🔍 [Detecção] 'Castelo das Ilusões (Apócrifos)' finalizada em 25.8 min (estimado: 100.0 min — 74% de folga no tempo programado).
+2026-08-06 20:00:29 | 🧠 [Aprendizado] Tempo base da 'Castelo das Ilusões (Apócrifos)' atualizado para 1.4 min no JSON.
+2026-08-06 20:00:31 | === ETAPA 2/3: Salão Radiante do Castelo (Apócrifos) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-06 20:00:33 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Salão Radiante do Castelo (Apócrifos)'.
+2026-08-06 20:10:36 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 20:20:37 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 20:30:38 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 20:40:42 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 22:16:23 | === ETAPA 1/4: Morada das Chamas Infernais(Desperto) | Tempo base: 1.3 min | Multiplicador: x20 | Bloco total: 26 min ===
+2026-08-06 22:16:25 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Morada das Chamas Infernais(Desperto)'.
+2026-08-06 22:26:27 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 10/26 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 22:36:29 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 20/26 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 22:38:07 | 🔍 [Detecção] 'Morada das Chamas Infernais(Desperto)' finalizada em 21.7 min (estimado: 26.0 min — 17% de folga no tempo programado).
+2026-08-06 22:38:07 | 🧠 [Aprendizado] Tempo base da 'Morada das Chamas Infernais(Desperto)' atualizado para 1.3 min no JSON.
+2026-08-06 22:38:08 | === ETAPA 2/4: Catacumba Gélida(Desperto) | Tempo base: 1.3 min | Multiplicador: x20 | Bloco total: 26 min ===
+2026-08-06 22:38:10 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Catacumba Gélida(Desperto)'.
+2026-08-06 22:48:12 | 💓 [Heartbeat] 'Catacumba Gélida(Desperto)': 10/26 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 22:52:44 | 🔍 [Detecção] 'Catacumba Gélida(Desperto)' finalizada em 14.6 min (estimado: 26.0 min — 44% de folga no tempo programado).
+2026-08-06 22:52:44 | 🧠 [Aprendizado] Tempo base da 'Catacumba Gélida(Desperto)' atualizado para 0.6 min no JSON.
+2026-08-06 22:52:46 | === ETAPA 3/4: Locomotiva Fantasma(Desperto) | Tempo base: 2.5 min | Multiplicador: x20 | Bloco total: 50 min ===
+2026-08-06 22:52:48 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Locomotiva Fantasma(Desperto)'.
+2026-08-06 23:02:48 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 10/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 23:12:50 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 20/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 23:22:54 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 30/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-06 23:26:07 | 🔍 [Detecção] 'Locomotiva Fantasma(Desperto)' finalizada em 33.3 min (estimado: 50.0 min — 33% de folga no tempo programado).
+2026-08-06 23:26:07 | 🧠 [Aprendizado] Tempo base da 'Locomotiva Fantasma(Desperto)' atualizado para 0.9 min no JSON.
+2026-08-06 23:26:08 | === ETAPA 4/4: Caverna do Pânico(Desperto) | Tempo base: 2.5 min | Multiplicador: x20 | Bloco total: 50 min ===
+2026-08-06 23:26:11 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Caverna do Pânico(Desperto)'.
+2026-08-06 23:32:10 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-06 23:44:43 | 🕐 [Agendamento] Aguardando até 07/08 00:01 para começar...
+2026-08-07 00:01:00 | 🕐 [Agendamento] Horário alcançado! Iniciando a sequência...
+2026-08-07 00:01:00 | === ETAPA 1/7: Torre dos Mortos 3SS | Tempo base: 5.5 min | Multiplicador: x10 | Bloco total: 55 min ===
+2026-08-07 00:01:02 | ✅ Ciclo de 10 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS'.
+2026-08-07 00:11:06 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 10/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 00:21:09 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 20/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 00:31:13 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 30/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 00:41:15 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 40/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 00:51:18 | 💓 [Heartbeat] 'Torre dos Mortos 3SS': 50/55 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 00:56:04 | [Aviso] 'Torre dos Mortos 3SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (55 min).
+2026-08-07 00:56:04 | === ETAPA 2/7: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.5 min | Multiplicador: x8 | Bloco total: 44 min ===
+2026-08-07 00:56:06 | ✅ Ciclo de 8 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-07 01:06:07 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 10/44 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 01:16:11 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 20/44 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 01:26:14 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 30/44 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 01:36:15 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 40/44 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 01:40:10 | [Aviso] 'Torre dos Mortos 3SS (Parte 2)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (44 min).
+2026-08-07 01:40:10 | === ETAPA 3/7: Crista Ilusória | Tempo base: 2.5 min | Multiplicador: x15 | Bloco total: 37 min ===
+2026-08-07 01:40:12 | ✅ Ciclo de 15 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-07 01:50:16 | 💓 [Heartbeat] 'Crista Ilusória': 10/37 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 02:00:16 | 💓 [Heartbeat] 'Crista Ilusória': 20/37 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 02:10:19 | 🔍 [Detecção] 'Crista Ilusória' finalizada em 30.1 min (estimado: 37.5 min — 20% de folga no tempo programado).
+2026-08-07 02:10:19 | 🧠 [Aprendizado] Tempo base da 'Crista Ilusória' atualizado para 1.8 min no JSON.
+2026-08-07 02:10:21 | === ETAPA 4/7: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-07 02:10:23 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
+2026-08-07 02:20:25 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 02:30:29 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 02:40:33 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 02:50:38 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 03:00:41 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 03:10:44 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 03:20:48 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 03:30:50 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 03:40:54 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 90/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 03:44:06 | 🔍 [Detecção] 'Posto Avançado de Máquinas' finalizada em 93.7 min (estimado: 100.0 min — 6% de folga no tempo programado).
+2026-08-07 03:44:06 | 🧠 [Aprendizado] Tempo base da 'Posto Avançado de Máquinas' atualizado para 2.4 min no JSON.
+2026-08-07 03:44:08 | === ETAPA 5/7: Altar de Siena 2SS | Tempo base: 4.5 min | Multiplicador: x20 | Bloco total: 90 min ===
+2026-08-07 03:44:10 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 2SS'.
+2026-08-07 03:54:12 | 💓 [Heartbeat] 'Altar de Siena 2SS': 10/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 04:04:15 | 💓 [Heartbeat] 'Altar de Siena 2SS': 20/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 04:14:17 | 💓 [Heartbeat] 'Altar de Siena 2SS': 30/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 04:24:18 | 💓 [Heartbeat] 'Altar de Siena 2SS': 40/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 04:34:15 | 🔍 [Detecção] 'Altar de Siena 2SS' finalizada em 50.1 min (estimado: 90.0 min — 44% de folga no tempo programado).
+2026-08-07 04:34:15 | 🧠 [Aprendizado] Tempo base da 'Altar de Siena 2SS' atualizado para 1.7 min no JSON.
+2026-08-07 04:34:17 | === ETAPA 6/7: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x9 | Bloco total: 45 min ===
+2026-08-07 04:34:19 | ✅ Ciclo de 9 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-07 04:44:23 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 04:54:26 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 20/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 05:04:30 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 30/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 05:14:32 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 40/45 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 05:19:22 | [Aviso] 'Templo Esquecido 2SS (Desperto)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (45 min).
+2026-08-07 05:19:22 | === ETAPA 7/7: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-07 05:19:24 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-07 05:29:26 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 10/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 05:39:27 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 20/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 05:49:28 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 30/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 05:55:06 | 🔍 [Detecção] 'Templo Esquecido 2SS' finalizada em 35.7 min (estimado: 70.0 min — 49% de folga no tempo programado).
+2026-08-07 05:55:06 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 2SS' atualizado para 1.8 min no JSON.
+2026-08-07 05:55:08 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-07 07:59:37 | 🕐 [Agendamento] Aguardando até 08/08 00:01 para começar...
+2026-08-07 07:59:45 | [Agendamento] Cancelado pelo usuário antes do horário chegar.
+2026-08-07 07:59:54 | 🕐 [Agendamento] Aguardando até 08/08 00:01 para começar...
+2026-08-07 08:00:20 | [Agendamento] Cancelado pelo usuário antes do horário chegar.
+2026-08-07 08:00:41 | 🕐 [Agendamento] Aguardando até 08/08 00:01 para começar...
+2026-08-07 08:01:34 | === ETAPA 1/4: Torre dos Mortos 3SS (Parte 2) | Tempo base: 5.5 min | Multiplicador: x20 | Bloco total: 110 min ===
+2026-08-07 08:01:36 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre dos Mortos 3SS (Parte 2)'.
+2026-08-07 08:11:39 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 10/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 08:21:41 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 20/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 08:31:41 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 30/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 08:41:42 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 40/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 08:51:44 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 50/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 09:01:47 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 60/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 09:11:47 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 70/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 09:21:51 | 💓 [Heartbeat] 'Torre dos Mortos 3SS (Parte 2)': 80/110 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 09:27:17 | 🔍 [Detecção] 'Torre dos Mortos 3SS (Parte 2)' finalizada em 85.7 min (estimado: 110.0 min — 22% de folga no tempo programado).
+2026-08-07 09:27:17 | 🧠 [Aprendizado] Tempo base da 'Torre dos Mortos 3SS (Parte 2)' atualizado para 2.9 min no JSON.
+2026-08-07 09:27:18 | === ETAPA 2/4: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-07 09:27:20 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-07 09:37:23 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 10/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 09:47:24 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 20/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 09:57:29 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 30/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 10:07:29 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 40/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 10:17:29 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 50/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 10:27:33 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 60/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 10:37:21 | [Aviso] 'Templo Esquecido 2SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (70 min).
+2026-08-07 10:37:21 | === ETAPA 3/4: Vale Tempestuoso (Desperto) | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-07 10:37:23 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-07 10:47:25 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 10:57:28 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 11:07:32 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 11:17:32 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 11:27:35 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 11:32:53 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-07 11:34:38 | === ETAPA 1/5: Templo Esquecido 2SS | Tempo base: 2.1 min | Multiplicador: x1 | Bloco total: 2 min ===
+2026-08-07 11:34:40 | ✅ Ciclo de 1 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-07 11:36:49 | [Aviso] 'Templo Esquecido 2SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (2 min).
+2026-08-07 11:36:49 | === ETAPA 2/5: Crista Ilusória | Tempo base: 2.3 min | Multiplicador: x20 | Bloco total: 46 min ===
+2026-08-07 11:36:51 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-07 11:40:12 | 🔍 [Detecção] 'Crista Ilusória' finalizada em 3.4 min (estimado: 46.0 min — 93% de folga no tempo programado).
+2026-08-07 11:40:12 | 🧠 [Aprendizado] Tempo base da 'Crista Ilusória' atualizado para 1.4 min no JSON.
+2026-08-07 11:40:13 | === ETAPA 3/5: Vale Tempestuoso (Desperto) | Tempo base: 1.7 min | Multiplicador: x20 | Bloco total: 34 min ===
+2026-08-07 11:40:16 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-07 11:42:20 | 🔍 [Detecção] 'Vale Tempestuoso (Desperto)' finalizada em 2.1 min (estimado: 34.0 min — 94% de folga no tempo programado).
+2026-08-07 11:42:20 | 🧠 [Aprendizado] Tempo base da 'Vale Tempestuoso (Desperto)' atualizado para 1.2 min no JSON.
+2026-08-07 11:42:21 | === ETAPA 4/5: Castelo das Ilusões (Apócrifos) | Tempo base: 1.4 min | Multiplicador: x20 | Bloco total: 28 min ===
+2026-08-07 11:42:23 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões (Apócrifos)'.
+2026-08-07 11:52:27 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 10/28 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 12:02:27 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 20/28 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 12:10:25 | [Aviso] 'Castelo das Ilusões (Apócrifos)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (28 min).
+2026-08-07 12:10:25 | === ETAPA 5/5: Salão Radiante do Castelo (Apócrifos) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-07 12:10:27 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Salão Radiante do Castelo (Apócrifos)'.
+2026-08-07 12:14:49 | 🔍 [Detecção] 'Salão Radiante do Castelo (Apócrifos)' finalizada em 4.4 min (estimado: 40.0 min — 89% de folga no tempo programado).
+2026-08-07 12:14:49 | 🧠 [Aprendizado] Tempo base da 'Salão Radiante do Castelo (Apócrifos)' atualizado para 1.0 min no JSON.
+2026-08-07 12:14:50 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-07 12:16:36 | ⏹ [Abortar] Execução cancelada pelo usuário (Resetar).
+2026-08-07 12:16:36 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-07 12:17:16 | === ETAPA 1/1: Vale Tempestuoso (Desperto) | Tempo base: 1.7 min | Multiplicador: x20 | Bloco total: 34 min ===
+2026-08-07 12:17:19 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-07 12:17:30 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-07 12:17:50 | === ETAPA 1/2: Vale Tempestuoso (Desperto) | Tempo base: 1.7 min | Multiplicador: x20 | Bloco total: 34 min ===
+2026-08-07 12:17:52 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-07 12:17:55 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-07 12:18:01 | === ETAPA 1/1: Vale Tempestuoso (Desperto) | Tempo base: 1.7 min | Multiplicador: x20 | Bloco total: 34 min ===
+2026-08-07 12:18:04 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Vale Tempestuoso (Desperto)'.
+2026-08-07 12:28:06 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 10/34 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 12:38:07 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 20/34 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 12:48:11 | 💓 [Heartbeat] 'Vale Tempestuoso (Desperto)': 30/34 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 12:52:06 | [Aviso] 'Vale Tempestuoso (Desperto)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (34 min).
+2026-08-07 12:52:06 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-07 13:00:08 | === ETAPA 1/2: Crista Ilusória | Tempo base: 2.3 min | Multiplicador: x20 | Bloco total: 46 min ===
+2026-08-07 13:00:10 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-07 13:10:14 | 💓 [Heartbeat] 'Crista Ilusória': 10/46 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 13:20:18 | 💓 [Heartbeat] 'Crista Ilusória': 20/46 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 13:30:18 | 💓 [Heartbeat] 'Crista Ilusória': 30/46 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 13:40:22 | 💓 [Heartbeat] 'Crista Ilusória': 40/46 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 13:40:57 | 🔍 [Detecção] 'Crista Ilusória' finalizada em 40.8 min (estimado: 46.0 min — 11% de folga no tempo programado).
+2026-08-07 13:40:57 | 🧠 [Aprendizado] Tempo base da 'Crista Ilusória' atualizado para 1.5 min no JSON.
+2026-08-07 13:40:59 | === ETAPA 2/2: Salão Radiante do Castelo (Apócrifos) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-07 13:41:01 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Salão Radiante do Castelo (Apócrifos)'.
+2026-08-07 13:51:02 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 14:01:02 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 14:11:06 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 14:11:34 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-07 14:12:24 | ❌ [Reconexão] Falhou (não conseguiu logar de volta). Tentativas consecutivas sem sucesso: 1.
+2026-08-07 14:21:53 | [Info] 'Salão Radiante do Castelo (Apócrifos)': 0 min do tempo total foram gastos reconectando.
+2026-08-07 14:21:53 | [Aviso] 'Salão Radiante do Castelo (Apócrifos)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (40 min).
+2026-08-07 14:21:53 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-07 20:36:19 | === ETAPA 1/2: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-07 20:36:21 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-07 20:46:24 | 💓 [Heartbeat] 'Altar de Siena 1SS': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 20:56:26 | 💓 [Heartbeat] 'Altar de Siena 1SS': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 21:06:26 | 💓 [Heartbeat] 'Altar de Siena 1SS': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 21:16:29 | 💓 [Heartbeat] 'Altar de Siena 1SS': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 21:26:31 | 💓 [Heartbeat] 'Altar de Siena 1SS': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-07 21:36:24 | [Aviso] 'Altar de Siena 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (60 min).
+2026-08-07 21:36:24 | === ETAPA 2/2: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-07 21:36:27 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-07 21:44:41 | 🔍 [Detecção] 'Castelo das Ilusões' finalizada em 8.2 min (estimado: 60.0 min — 86% de folga no tempo programado).
+2026-08-07 21:44:41 | 🧠 [Aprendizado] Tempo base da 'Castelo das Ilusões' atualizado para 0.5 min no JSON.
+2026-08-07 21:44:43 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-08 00:07:17 | === ETAPA 1/10: Morada das Chamas Infernais(Desperto) | Tempo base: 1.3 min | Multiplicador: x20 | Bloco total: 26 min ===
+2026-08-08 00:07:19 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Morada das Chamas Infernais(Desperto)'.
+2026-08-08 00:17:24 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 10/26 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 00:27:27 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 20/26 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 00:30:50 | 🔍 [Detecção] 'Morada das Chamas Infernais(Desperto)' finalizada em 23.5 min (estimado: 26.0 min — 10% de folga no tempo programado).
+2026-08-08 00:30:50 | 🧠 [Aprendizado] Tempo base da 'Morada das Chamas Infernais(Desperto)' atualizado para 1.3 min no JSON.
+2026-08-08 00:30:51 | === ETAPA 2/10: Caverna do Pânico(Desperto) | Tempo base: 2.5 min | Multiplicador: x20 | Bloco total: 50 min ===
+2026-08-08 00:30:53 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Caverna do Pânico(Desperto)'.
+2026-08-08 00:40:57 | 💓 [Heartbeat] 'Caverna do Pânico(Desperto)': 10/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 00:50:59 | 💓 [Heartbeat] 'Caverna do Pânico(Desperto)': 20/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 01:00:25 | 🔍 [Detecção] 'Caverna do Pânico(Desperto)' finalizada em 29.5 min (estimado: 50.0 min — 41% de folga no tempo programado).
+2026-08-08 01:00:25 | 🧠 [Aprendizado] Tempo base da 'Caverna do Pânico(Desperto)' atualizado para 0.9 min no JSON.
+2026-08-08 01:00:26 | === ETAPA 3/10: Locomotiva Fantasma(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-08 01:00:28 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Locomotiva Fantasma(Desperto)'.
+2026-08-08 01:10:31 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 01:20:34 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 01:30:39 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 01:38:20 | 🔍 [Detecção] 'Locomotiva Fantasma(Desperto)' finalizada em 37.9 min (estimado: 40.0 min — 5% de folga no tempo programado).
+2026-08-08 01:38:20 | 🧠 [Aprendizado] Tempo base da 'Locomotiva Fantasma(Desperto)' atualizado para 1.1 min no JSON.
+2026-08-08 01:38:22 | === ETAPA 4/10: Catacumba Gélida(Desperto) | Tempo base: 1.3 min | Multiplicador: x20 | Bloco total: 26 min ===
+2026-08-08 01:38:24 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Catacumba Gélida(Desperto)'.
+2026-08-08 01:41:47 | 🔍 [Detecção] 'Catacumba Gélida(Desperto)' finalizada em 3.4 min (estimado: 26.0 min — 87% de folga no tempo programado).
+2026-08-08 01:41:47 | 🧠 [Aprendizado] Tempo base da 'Catacumba Gélida(Desperto)' atualizado para 0.5 min no JSON.
+2026-08-08 01:41:48 | === ETAPA 5/10: Pandemônio | Tempo base: 4.0 min | Multiplicador: x20 | Bloco total: 80 min ===
+2026-08-08 01:41:50 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Pandemônio'.
+2026-08-08 01:43:55 | 🔍 [Detecção] 'Pandemônio' finalizada em 2.1 min (estimado: 80.0 min — 97% de folga no tempo programado).
+2026-08-08 01:43:55 | 🧠 [Aprendizado] Tempo base da 'Pandemônio' atualizado para 2.7 min no JSON.
+2026-08-08 01:43:56 | === ETAPA 6/10: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-08 01:43:58 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-08 01:54:01 | 💓 [Heartbeat] 'Altar de Siena 1SS': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 02:04:05 | 💓 [Heartbeat] 'Altar de Siena 1SS': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 02:14:07 | 💓 [Heartbeat] 'Altar de Siena 1SS': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 02:24:09 | 💓 [Heartbeat] 'Altar de Siena 1SS': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 02:34:09 | 💓 [Heartbeat] 'Altar de Siena 1SS': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 02:44:02 | [Aviso] 'Altar de Siena 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (60 min).
+2026-08-08 02:44:02 | === ETAPA 7/10: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-08 02:44:04 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-08 02:54:06 | 💓 [Heartbeat] 'Castelo das Ilusões': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 02:56:21 | 🔍 [Detecção] 'Castelo das Ilusões' finalizada em 12.3 min (estimado: 60.0 min — 80% de folga no tempo programado).
+2026-08-08 02:56:21 | 🧠 [Aprendizado] Tempo base da 'Castelo das Ilusões' atualizado para 0.5 min no JSON.
+2026-08-08 02:56:22 | === ETAPA 8/10: Ilha Proibida | Tempo base: 4.0 min | Multiplicador: x20 | Bloco total: 80 min ===
+2026-08-08 02:56:25 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-08 03:06:26 | 💓 [Heartbeat] 'Ilha Proibida': 10/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 03:16:29 | 💓 [Heartbeat] 'Ilha Proibida': 20/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 03:26:30 | 💓 [Heartbeat] 'Ilha Proibida': 30/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 03:36:34 | 💓 [Heartbeat] 'Ilha Proibida': 40/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 03:46:34 | 💓 [Heartbeat] 'Ilha Proibida': 50/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 03:56:37 | 💓 [Heartbeat] 'Ilha Proibida': 60/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 04:06:40 | 💓 [Heartbeat] 'Ilha Proibida': 70/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 04:16:26 | [Aviso] 'Ilha Proibida' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (80 min).
+2026-08-08 04:16:26 | === ETAPA 9/10: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-08 04:16:28 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-08 04:26:29 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 04:36:32 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 04:43:09 | 🔍 [Detecção] 'Templo Esquecido 1SS' finalizada em 26.7 min (estimado: 40.0 min — 33% de folga no tempo programado).
+2026-08-08 04:43:09 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 1SS' atualizado para 1.3 min no JSON.
+2026-08-08 04:43:10 | === ETAPA 10/10: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-08 04:43:12 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-08 04:45:16 | 🔍 [Detecção] 'Cidadela Vulcânica' finalizada em 2.1 min (estimado: 40.0 min — 95% de folga no tempo programado).
+2026-08-08 04:45:16 | 🧠 [Aprendizado] Tempo base da 'Cidadela Vulcânica' atualizado para 0.1 min no JSON.
+2026-08-08 04:45:18 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-08 07:33:44 | === ETAPA 1/3: Pandemônio | Tempo base: 4.0 min | Multiplicador: x20 | Bloco total: 80 min ===
+2026-08-08 07:33:46 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Pandemônio'.
+2026-08-08 07:43:49 | 💓 [Heartbeat] 'Pandemônio': 10/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 07:53:50 | 💓 [Heartbeat] 'Pandemônio': 20/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 08:03:53 | 💓 [Heartbeat] 'Pandemônio': 30/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 08:13:56 | 💓 [Heartbeat] 'Pandemônio': 40/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 08:23:57 | 💓 [Heartbeat] 'Pandemônio': 50/80 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 08:24:05 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-08 08:24:42 | === ETAPA 1/4: Pandemônio | Tempo base: 4.0 min | Multiplicador: x10 | Bloco total: 40 min ===
+2026-08-08 08:24:44 | ✅ Ciclo de 10 entrada(s) disparado com sucesso para 'Pandemônio'.
+2026-08-08 08:34:46 | 💓 [Heartbeat] 'Pandemônio': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 08:44:50 | 💓 [Heartbeat] 'Pandemônio': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 08:54:50 | 💓 [Heartbeat] 'Pandemônio': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 08:55:35 | 🔍 [Detecção] 'Pandemônio' finalizada em 30.8 min (estimado: 40.0 min — 23% de folga no tempo programado).
+2026-08-08 08:55:35 | 🧠 [Aprendizado] Tempo base da 'Pandemônio' atualizado para 2.8 min no JSON.
+2026-08-08 08:55:36 | === ETAPA 2/4: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-08 08:55:39 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-08 09:05:41 | 💓 [Heartbeat] 'Castelo das Ilusões': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 09:15:45 | 💓 [Heartbeat] 'Castelo das Ilusões': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 09:25:46 | 💓 [Heartbeat] 'Castelo das Ilusões': 30/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 09:35:50 | 💓 [Heartbeat] 'Castelo das Ilusões': 40/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 09:45:54 | 💓 [Heartbeat] 'Castelo das Ilusões': 50/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 09:55:39 | [Aviso] 'Castelo das Ilusões' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (60 min).
+2026-08-08 09:55:39 | === ETAPA 3/4: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-08 09:55:41 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-08 10:05:45 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 10:15:46 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 10:18:45 | 🔍 [Detecção] 'Templo Esquecido 1SS' finalizada em 23.1 min (estimado: 40.0 min — 42% de folga no tempo programado).
+2026-08-08 10:18:45 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 1SS' atualizado para 1.3 min no JSON.
+2026-08-08 10:18:47 | === ETAPA 4/4: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-08 10:18:49 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-08 10:28:51 | 💓 [Heartbeat] 'Cidadela Vulcânica': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 10:38:55 | 💓 [Heartbeat] 'Cidadela Vulcânica': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 10:48:56 | 💓 [Heartbeat] 'Cidadela Vulcânica': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 10:57:25 | 🔍 [Detecção] 'Cidadela Vulcânica' finalizada em 38.6 min (estimado: 40.0 min — 4% de folga no tempo programado).
+2026-08-08 10:57:25 | 🧠 [Aprendizado] Tempo base da 'Cidadela Vulcânica' atualizado para 1.0 min no JSON.
+2026-08-08 10:57:26 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-08 11:13:17 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-08 11:14:09 | ❌ [Reconexão] Falhou (não conseguiu logar de volta). Tentativas consecutivas sem sucesso: 1.
+2026-08-08 11:52:24 | === ETAPA 1/2: Torre Gélida dos Mortos 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-08 11:52:26 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre Gélida dos Mortos 1SS'.
+2026-08-08 12:02:26 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 12:12:27 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 12:22:30 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 12:32:27 | [Aviso] 'Torre Gélida dos Mortos 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (40 min).
+2026-08-08 12:32:27 | === ETAPA 2/2: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-08 12:32:30 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-08 12:42:32 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 12:52:33 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 13:02:36 | 💓 [Heartbeat] 'Templo Esquecido 1SS': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 13:05:37 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-08 13:05:51 | === ETAPA 1/2: Castelo das Ilusões (Apócrifos) | Tempo base: 1.4 min | Multiplicador: x20 | Bloco total: 28 min ===
+2026-08-08 13:05:53 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões (Apócrifos)'.
+2026-08-08 13:15:57 | 💓 [Heartbeat] 'Castelo das Ilusões (Apócrifos)': 10/28 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 13:56:50 | === ETAPA 1/5: Salão Radiante do Castelo (Apócrifos) | Tempo base: 1.5 min | Multiplicador: x14 | Bloco total: 21 min ===
+2026-08-08 13:56:52 | ✅ Ciclo de 14 entrada(s) disparado com sucesso para 'Salão Radiante do Castelo (Apócrifos)'.
+2026-08-08 14:06:55 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 10/21 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 14:16:57 | 💓 [Heartbeat] 'Salão Radiante do Castelo (Apócrifos)': 20/21 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 14:17:54 | [Aviso] 'Salão Radiante do Castelo (Apócrifos)' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (21 min).
+2026-08-08 14:17:54 | === ETAPA 2/5: Crista Ilusória | Tempo base: 1.5 min | Multiplicador: x20 | Bloco total: 30 min ===
+2026-08-08 14:17:56 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Crista Ilusória'.
+2026-08-08 14:21:59 | 🔍 [Detecção] 'Crista Ilusória' finalizada em 4.0 min (estimado: 30.0 min — 87% de folga no tempo programado).
+2026-08-08 14:21:59 | 🧠 [Aprendizado] Tempo base da 'Crista Ilusória' atualizado para 1.3 min no JSON.
+2026-08-08 14:22:00 | === ETAPA 3/5: Templo Esquecido 2SS (Desperto) | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-08 14:22:02 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS (Desperto)'.
+2026-08-08 14:32:06 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 10/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 14:42:08 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 20/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 14:52:10 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 30/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 15:02:12 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 40/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 15:12:13 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 50/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 15:22:14 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 60/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 15:32:17 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 70/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 15:42:19 | 💓 [Heartbeat] 'Templo Esquecido 2SS (Desperto)': 80/100 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 15:46:40 | 🔍 [Detecção] 'Templo Esquecido 2SS (Desperto)' finalizada em 84.6 min (estimado: 100.0 min — 15% de folga no tempo programado).
+2026-08-08 15:46:40 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 2SS (Desperto)' atualizado para 3.3 min no JSON.
+2026-08-08 15:46:42 | === ETAPA 4/5: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-08 15:46:44 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-08 15:56:46 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 10/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 16:06:49 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 20/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 16:16:53 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 30/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 16:26:53 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 40/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 16:36:56 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 50/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 16:47:00 | 💓 [Heartbeat] 'Templo Esquecido 2SS': 60/70 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 16:56:47 | [Aviso] 'Templo Esquecido 2SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (70 min).
+2026-08-08 16:56:47 | === ETAPA 5/5: Altar de Siena 2SS | Tempo base: 4.5 min | Multiplicador: x20 | Bloco total: 90 min ===
+2026-08-08 16:56:49 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 2SS'.
+2026-08-08 17:06:53 | 💓 [Heartbeat] 'Altar de Siena 2SS': 10/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 17:16:54 | 💓 [Heartbeat] 'Altar de Siena 2SS': 20/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 17:26:56 | 💓 [Heartbeat] 'Altar de Siena 2SS': 30/90 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-08 17:30:09 | 🔍 [Detecção] 'Altar de Siena 2SS' finalizada em 33.3 min (estimado: 90.0 min — 63% de folga no tempo programado).
+2026-08-08 17:30:09 | 🧠 [Aprendizado] Tempo base da 'Altar de Siena 2SS' atualizado para 1.7 min no JSON.
+2026-08-08 17:30:11 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-10 00:19:49 | === ETAPA 1/10: Morada das Chamas Infernais(Desperto) | Tempo base: 1.3 min | Multiplicador: x20 | Bloco total: 26 min ===
+2026-08-10 00:19:51 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Morada das Chamas Infernais(Desperto)'.
+2026-08-10 00:20:17 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 00:20:18 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 00:21:08 | ❌ [Reconexão] Falhou (não conseguiu logar de volta). Tentativas consecutivas sem sucesso: 1.
+2026-08-10 00:21:13 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-10 00:34:05 | === ETAPA 1/10: Morada das Chamas Infernais(Desperto) | Tempo base: 1.7 min | Multiplicador: x18 | Bloco total: 30 min ===
+2026-08-10 00:34:07 | ✅ Ciclo de 18 entrada(s) disparado com sucesso para 'Morada das Chamas Infernais(Desperto)'.
+2026-08-10 00:44:09 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 10/30 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 00:54:11 | 💓 [Heartbeat] 'Morada das Chamas Infernais(Desperto)': 20/30 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 00:55:45 | 🔍 [Detecção] 'Morada das Chamas Infernais(Desperto)' finalizada em 21.6 min (estimado: 30.6 min — 29% de folga no tempo programado).
+2026-08-10 00:55:45 | 🧠 [Aprendizado] Tempo base da 'Morada das Chamas Infernais(Desperto)' atualizado para 1.3 min no JSON.
+2026-08-10 00:55:46 | === ETAPA 2/10: Caverna do Pânico(Desperto) | Tempo base: 2.5 min | Multiplicador: x20 | Bloco total: 50 min ===
+2026-08-10 00:55:48 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Caverna do Pânico(Desperto)'.
+2026-08-10 00:55:52 | 🔍 [Detecção] 'Caverna do Pânico(Desperto)' finalizada em 0.1 min (estimado: 50.0 min — 100% de folga no tempo programado).
+2026-08-10 00:55:52 | 🧠 [Aprendizado] Tempo base da 'Caverna do Pânico(Desperto)' atualizado para 0.7 min no JSON.
+2026-08-10 00:55:54 | === ETAPA 3/10: Locomotiva Fantasma(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 00:55:56 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Locomotiva Fantasma(Desperto)'.
+2026-08-10 01:05:59 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 01:16:00 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 01:23:53 | 🔍 [Detecção] 'Locomotiva Fantasma(Desperto)' finalizada em 27.9 min (estimado: 40.0 min — 30% de folga no tempo programado).
+2026-08-10 01:23:53 | 🧠 [Aprendizado] Tempo base da 'Locomotiva Fantasma(Desperto)' atualizado para 1.2 min no JSON.
+2026-08-10 01:23:54 | === ETAPA 4/10: Catacumba Gélida(Desperto) | Tempo base: 1.3 min | Multiplicador: x20 | Bloco total: 26 min ===
+2026-08-10 01:23:57 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Catacumba Gélida(Desperto)'.
+2026-08-10 01:24:00 | 🔍 [Detecção] 'Catacumba Gélida(Desperto)' finalizada em 0.1 min (estimado: 26.0 min — 100% de folga no tempo programado).
+2026-08-10 01:24:00 | 🧠 [Aprendizado] Tempo base da 'Catacumba Gélida(Desperto)' atualizado para 0.4 min no JSON.
+2026-08-10 01:24:02 | === ETAPA 5/10: Ilha Proibida | Tempo base: 4.0 min | Multiplicador: x20 | Bloco total: 80 min ===
+2026-08-10 01:24:04 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-10 01:25:25 | 🔍 [Detecção] 'Ilha Proibida' finalizada em 1.3 min (estimado: 80.0 min — 98% de folga no tempo programado).
+2026-08-10 01:25:25 | 🧠 [Aprendizado] Tempo base da 'Ilha Proibida' atualizado para 1.5 min no JSON.
+2026-08-10 01:25:26 | === ETAPA 6/10: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-10 01:25:28 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-10 01:25:32 | 🔍 [Detecção] 'Altar de Siena 1SS' finalizada em 0.1 min (estimado: 60.0 min — 100% de folga no tempo programado).
+2026-08-10 01:25:32 | 🧠 [Aprendizado] Tempo base da 'Altar de Siena 1SS' atualizado para 1.4 min no JSON.
+2026-08-10 01:25:33 | === ETAPA 7/10: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-10 01:25:35 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-10 01:35:38 | 💓 [Heartbeat] 'Castelo das Ilusões': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 01:36:08 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-10 01:37:28 | === ETAPA 1/8: Locomotiva Fantasma(Desperto) | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 01:37:30 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Locomotiva Fantasma(Desperto)'.
+2026-08-10 01:47:31 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 01:57:33 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 02:07:35 | 💓 [Heartbeat] 'Locomotiva Fantasma(Desperto)': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 02:10:13 | 🔍 [Detecção] 'Locomotiva Fantasma(Desperto)' finalizada em 32.7 min (estimado: 40.0 min — 18% de folga no tempo programado).
+2026-08-10 02:10:13 | 🧠 [Aprendizado] Tempo base da 'Locomotiva Fantasma(Desperto)' atualizado para 1.2 min no JSON.
+2026-08-10 02:10:15 | === ETAPA 2/8: Pandemônio | Tempo base: 4.0 min | Multiplicador: x20 | Bloco total: 80 min ===
+2026-08-10 02:10:17 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Pandemônio'.
+2026-08-10 02:10:20 | 🔍 [Detecção] 'Pandemônio' finalizada em 0.1 min (estimado: 80.0 min — 100% de folga no tempo programado).
+2026-08-10 02:10:20 | 🧠 [Aprendizado] Tempo base da 'Pandemônio' atualizado para 2.2 min no JSON.
+2026-08-10 02:10:22 | === ETAPA 3/8: Altar de Siena 1SS | Tempo base: 3.0 min | Multiplicador: x17 | Bloco total: 51 min ===
+2026-08-10 02:10:24 | ✅ Ciclo de 17 entrada(s) disparado com sucesso para 'Altar de Siena 1SS'.
+2026-08-10 02:20:26 | 💓 [Heartbeat] 'Altar de Siena 1SS': 10/51 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 02:30:28 | 💓 [Heartbeat] 'Altar de Siena 1SS': 20/51 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 02:40:30 | 💓 [Heartbeat] 'Altar de Siena 1SS': 30/51 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 02:50:31 | 💓 [Heartbeat] 'Altar de Siena 1SS': 40/51 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 03:00:34 | 💓 [Heartbeat] 'Altar de Siena 1SS': 50/51 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 03:01:27 | [Aviso] 'Altar de Siena 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (51 min).
+2026-08-10 03:01:27 | === ETAPA 4/8: Castelo das Ilusões | Tempo base: 3.0 min | Multiplicador: x20 | Bloco total: 60 min ===
+2026-08-10 03:01:29 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Castelo das Ilusões'.
+2026-08-10 03:11:31 | 💓 [Heartbeat] 'Castelo das Ilusões': 10/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 03:21:33 | 💓 [Heartbeat] 'Castelo das Ilusões': 20/60 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 03:23:13 | 🔍 [Detecção] 'Castelo das Ilusões' finalizada em 21.7 min (estimado: 60.0 min — 64% de folga no tempo programado).
+2026-08-10 03:23:13 | 🧠 [Aprendizado] Tempo base da 'Castelo das Ilusões' atualizado para 0.6 min no JSON.
+2026-08-10 03:23:15 | === ETAPA 5/8: Ilha Proibida | Tempo base: 4.0 min | Multiplicador: x20 | Bloco total: 80 min ===
+2026-08-10 03:23:17 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Ilha Proibida'.
+2026-08-10 03:23:25 | 🔍 [Detecção] 'Ilha Proibida' finalizada em 0.1 min (estimado: 80.0 min — 100% de folga no tempo programado).
+2026-08-10 03:23:25 | 🧠 [Aprendizado] Tempo base da 'Ilha Proibida' atualizado para 1.2 min no JSON.
+2026-08-10 03:23:26 | === ETAPA 6/8: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 03:23:28 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-10 03:23:32 | 🔍 [Detecção] 'Templo Esquecido 1SS' finalizada em 0.1 min (estimado: 40.0 min — 100% de folga no tempo programado).
+2026-08-10 03:23:32 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 1SS' atualizado para 1.0 min no JSON.
+2026-08-10 03:23:34 | === ETAPA 7/8: Torre Gélida dos Mortos 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 03:23:36 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre Gélida dos Mortos 1SS'.
+2026-08-10 03:23:40 | 🔍 [Detecção] 'Torre Gélida dos Mortos 1SS' finalizada em 0.1 min (estimado: 40.0 min — 100% de folga no tempo programado).
+2026-08-10 03:23:40 | 🧠 [Aprendizado] Tempo base da 'Torre Gélida dos Mortos 1SS' atualizado para 0.0 min no JSON.
+2026-08-10 03:23:41 | === ETAPA 8/8: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 03:23:44 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-10 03:33:48 | 💓 [Heartbeat] 'Cidadela Vulcânica': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 03:43:49 | 💓 [Heartbeat] 'Cidadela Vulcânica': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 03:53:53 | 💓 [Heartbeat] 'Cidadela Vulcânica': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 04:03:46 | [Aviso] 'Cidadela Vulcânica' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (40 min).
+2026-08-10 04:03:46 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-10 11:39:38 | === ETAPA 1/3: Torre Gélida dos Mortos 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 11:39:41 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Torre Gélida dos Mortos 1SS'.
+2026-08-10 11:49:44 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 10/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 11:59:45 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 20/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 12:09:46 | 💓 [Heartbeat] 'Torre Gélida dos Mortos 1SS': 30/40 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 12:19:44 | [Aviso] 'Torre Gélida dos Mortos 1SS' não foi detectada finalizada — usou o tempo estimado inteiro como teto de segurança (40 min).
+2026-08-10 12:19:44 | === ETAPA 2/3: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 12:19:46 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-10 12:22:12 | 🔍 [Detecção] 'Templo Esquecido 1SS' finalizada em 2.4 min (estimado: 40.0 min — 94% de folga no tempo programado).
+2026-08-10 12:22:12 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 1SS' atualizado para 0.8 min no JSON.
+2026-08-10 12:22:13 | === ETAPA 3/3: Cidadela Vulcânica | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 12:22:15 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-10 12:22:19 | 🔍 [Detecção] 'Cidadela Vulcânica' finalizada em 0.1 min (estimado: 40.0 min — 100% de folga no tempo programado).
+2026-08-10 12:22:19 | 🧠 [Aprendizado] Tempo base da 'Cidadela Vulcânica' atualizado para 0.7 min no JSON.
+2026-08-10 12:22:20 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-10 13:04:32 | === ETAPA 1/1: Cidadela Vulcânica | Tempo base: 0.7 min | Multiplicador: x20 | Bloco total: 14 min ===
+2026-08-10 13:04:34 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-10 13:04:57 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 13:04:58 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 13:07:29 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 13:07:30 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 13:08:23 | ❌ [Reconexão] Falhou (não conseguiu logar de volta). Tentativas consecutivas sem sucesso: 1.
+2026-08-10 19:10:03 | ❌ [Validação] Sequência cancelada: DGs sem coordenada mapeada: Vale Tempestuoso (Desperto). Use 'Mapear coordenadas' antes de tentar novamente.
+2026-08-10 19:14:21 | === ETAPA 1/1: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 19:14:23 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 19:14:53 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 19:14:55 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 19:15:49 | ❌ [Reconexão] Falhou (não conseguiu logar de volta). Tentativas consecutivas sem sucesso: 1.
+2026-08-10 19:15:49 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-10 19:20:38 | === ETAPA 1/1: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 19:20:40 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 19:20:48 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 19:20:49 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 19:23:18 | === ETAPA 1/1: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 19:23:20 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 19:23:28 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 19:23:29 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 19:23:32 | ⚠️ [Reconexão] Login duplo detectado. Confirmando acesso...
+2026-08-10 19:36:33 | === ETAPA 1/1: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 19:36:35 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 19:36:52 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 19:36:53 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 19:43:07 | === ETAPA 1/1: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 19:43:09 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 19:43:24 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 19:43:25 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 19:43:29 | ⚠️ [Reconexão] Login duplo detectado. Confirmando acesso...
+2026-08-10 19:52:07 | === ETAPA 1/1: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 19:52:09 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 19:52:14 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-10 19:53:59 | === ETAPA 1/1: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 19:54:01 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 19:54:19 | ⚠️ [Reconexão] Desconexão detectada! Ativando protocolo de re-autenticação...
+2026-08-10 19:54:21 | ⚠️ [Reconexão] Desconexão detectada pelo OCR!
+2026-08-10 19:55:04 | ✅ [Reconexão] Login e canal recuperados com sucesso.
+2026-08-10 19:55:22 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-10 21:10:52 | === ETAPA 1/2: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-10 21:10:54 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
+2026-08-10 21:10:54 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-10 21:11:05 | === ETAPA 1/2: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x1 | Bloco total: 5 min ===
+2026-08-10 21:11:07 | ✅ Ciclo de 1 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
+2026-08-10 21:11:24 | 🔍 [Detecção] 'Posto Avançado de Máquinas' finalizada em 0.3 min (estimado: 5.0 min — 94% de folga no tempo programado).
+2026-08-10 21:11:24 | 🧠 [Aprendizado] Tempo base da 'Posto Avançado de Máquinas' atualizado para 1.7 min no JSON.
+2026-08-10 21:11:26 | === ETAPA 2/2: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 21:11:28 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 21:11:32 | 🔍 [Detecção] 'Templo Esquecido 2SS' finalizada em 0.1 min (estimado: 70.0 min — 100% de folga no tempo programado).
+2026-08-10 21:11:32 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 2SS' atualizado para 0.9 min no JSON.
+2026-08-10 21:11:33 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-10 21:11:45 | === ETAPA 1/2: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x1 | Bloco total: 5 min ===
+2026-08-10 21:11:48 | ✅ Ciclo de 1 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
+2026-08-10 21:11:56 | 🔍 [Detecção] 'Posto Avançado de Máquinas' finalizada em 0.1 min (estimado: 5.0 min — 97% de folga no tempo programado).
+2026-08-10 21:11:56 | 🧠 [Aprendizado] Tempo base da 'Posto Avançado de Máquinas' atualizado para 1.3 min no JSON.
+2026-08-10 21:11:58 | === ETAPA 2/2: Templo Esquecido 2SS | Tempo base: 3.5 min | Multiplicador: x20 | Bloco total: 70 min ===
+2026-08-10 21:12:00 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 2SS'.
+2026-08-10 21:12:04 | 🔍 [Detecção] 'Templo Esquecido 2SS' finalizada em 0.1 min (estimado: 70.0 min — 100% de folga no tempo programado).
+2026-08-10 21:12:04 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 2SS' atualizado para 0.6 min no JSON.
+2026-08-10 21:12:05 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-10 21:12:56 | === ETAPA 1/2: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x1 | Bloco total: 2 min ===
+2026-08-10 21:12:58 | ✅ Ciclo de 1 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-10 21:13:01 | 🔍 [Detecção] 'Templo Esquecido 1SS' finalizada em 0.1 min (estimado: 2.0 min — 97% de folga no tempo programado).
+2026-08-10 21:13:01 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 1SS' atualizado para 0.7 min no JSON.
+2026-08-10 21:13:03 | === ETAPA 2/2: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x10 | Bloco total: 50 min ===
+2026-08-10 21:13:05 | ✅ Ciclo de 10 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
+2026-08-10 21:13:23 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-10 21:18:48 | === ETAPA 1/1: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x1 | Bloco total: 2 min ===
+2026-08-10 21:18:50 | ✅ Ciclo de 1 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-10 21:20:12 | 🔍 [Detecção] 'Templo Esquecido 1SS' finalizada em 1.4 min (estimado: 2.0 min — 32% de folga no tempo programado).
+2026-08-10 21:20:12 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 1SS' atualizado para 0.8 min no JSON.
+2026-08-10 21:20:13 | 🎉 Sequência completa do Dungeon Helper finalizada com sucesso!
+2026-08-10 21:21:36 | === ETAPA 1/2: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x20 | Bloco total: 40 min ===
+2026-08-10 21:21:38 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-10 21:21:45 | ⏹ Sequência interrompida (Resetar clicado durante a execução).
+2026-08-10 21:22:07 | === ETAPA 1/2: Templo Esquecido 1SS | Tempo base: 2.0 min | Multiplicador: x1 | Bloco total: 2 min ===
+2026-08-10 21:22:09 | ✅ Ciclo de 1 entrada(s) disparado com sucesso para 'Templo Esquecido 1SS'.
+2026-08-10 21:23:31 | 🔍 [Detecção] 'Templo Esquecido 1SS' finalizada em 1.4 min (estimado: 2.0 min — 32% de folga no tempo programado).
+2026-08-10 21:23:31 | 🧠 [Aprendizado] Tempo base da 'Templo Esquecido 1SS' atualizado para 0.9 min no JSON.
+2026-08-10 21:23:32 | === ETAPA 2/2: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x10 | Bloco total: 50 min ===
+2026-08-10 21:23:35 | ✅ Ciclo de 10 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
+2026-08-10 21:33:35 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 10/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 21:43:36 | 💓 [Heartbeat] 'Posto Avançado de Máquinas': 20/50 min passados (tempo real), bot ativo e contando normalmente.
+2026-08-10 22:04:48 | === ETAPA 1/2: Cidadela Vulcânica | Tempo base: 5.0 min | Multiplicador: x1 | Bloco total: 5 min ===
+2026-08-10 22:04:50 | ✅ Ciclo de 1 entrada(s) disparado com sucesso para 'Cidadela Vulcânica'.
+2026-08-10 22:07:14 | 🔍 [Detecção] 'Cidadela Vulcânica' finalizada em 2.4 min (estimado: 5.0 min — 52% de folga no tempo programado).
+2026-08-10 22:07:14 | 🧠 [Aprendizado] Tempo base da 'Cidadela Vulcânica' atualizado para 1.1 min no JSON.
+2026-08-10 22:07:15 | === ETAPA 2/2: Posto Avançado de Máquinas | Tempo base: 5.0 min | Multiplicador: x20 | Bloco total: 100 min ===
+2026-08-10 22:07:18 | ✅ Ciclo de 20 entrada(s) disparado com sucesso para 'Posto Avançado de Máquinas'.
